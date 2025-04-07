@@ -11,4 +11,4 @@ Este é um site simples desenvolvido com **HTML** e **CSS**, criado para apresen
 Este projeto foi desenvolvido como parte da minha formação em **Front-end**, com o objetivo de praticar e demonstrar minhas habilidades em desenvolvimento web.
 
 ## 📂 Visualização
-Você pode acessar o site através do [GitHub Pages](https://vinicius-rodrigue-adriano.github.io/portfolio/)
+Você pode acessar o site através do [GitHub Pages](https://vinicius-rodrigues-adriano.github.io/portfolio/)
